@@ -1,0 +1,11 @@
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.exe
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.deps.json
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.runtimeconfig.json
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.runtimeconfig.dev.json
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.dll
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.pdb
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.csprojAssemblyReference.cache
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.AssemblyInfo.cs
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.dll
+C:\Users\Burekdzija\source\repos\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.pdb
